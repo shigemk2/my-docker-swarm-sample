@@ -1,0 +1,1 @@
+# my-docker-swarm-sample
